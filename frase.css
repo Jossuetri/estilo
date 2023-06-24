@@ -1,0 +1,16 @@
+.estilo {
+    border:none ;
+    border-bottom: 3px solid #253ce6;
+}
+.boton{
+    background-color: #f2f2f2;
+    font-size: 16px;
+    border-radius: 10px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    
+}
+.boton:hover {
+    background-color: #1a099a; 
+    color: rgb(197, 197, 197);
+}

@@ -1,0 +1,23 @@
+#titulo {
+    color: red;
+}
+.tex{
+    color: blue;
+}
+p.especial {
+    color: chartreuse;
+}
+p.pers {
+    color: aqua;
+}
+div p {
+    color: forestgreen;
+}
+div h2, h3 {
+    color: indigo;
+}
+* {
+    font-size: 24px;
+    color: black;
+}
+/*es una prueba */

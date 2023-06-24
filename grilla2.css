@@ -1,0 +1,38 @@
+.fondo{
+    border: 5px black outset;
+    background-color: rgb(163, 161, 161);
+    height: 281px;
+    width: 300px;
+    border-radius: 8px;
+}
+.cabeza{
+    text-decoration: underline; 
+    text-shadow: 3px 5px 5px rgb(22, 22, 129)
+}
+th,table,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse
+}
+th{
+    background-color: rgb(35, 105, 167);
+    color: rgb(5, 5, 5);
+}
+tr:nth-child(even){
+    background-color: #eee;
+}
+td:hover{
+    background-color: hsl(174, 87%, 50%);
+    cursor: pointer;
+}
+.regreso{
+    background-color: #f2f2f2;
+    font-size: 13px;
+    border-radius: 10px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    
+}
+.regreso:hover {
+    background-color: #102d43; 
+    color: rgb(197, 197, 197);
+}

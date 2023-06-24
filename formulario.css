@@ -1,0 +1,45 @@
+.news {
+    border: 5px black outset;
+    background-color: rgb(162, 161, 161);
+    border-radius: 6px;
+}
+.encabezado{
+    text-decoration: underline; 
+    text-shadow: 3px 5px 5px red;
+}
+#guardar{
+    background-color: #f2f2f2;
+    font-size: 13px;
+    border-radius: 10px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    
+}
+#guardar:hover {
+    background-color: #00d018; 
+    color: rgb(197, 197, 197);
+}
+#reload{
+    background-color: #f2f2f2;
+    font-size: 13px;
+    border-radius: 10px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    
+}
+#reload:hover {
+    background-color: #a90000; 
+    color: rgb(197, 197, 197);
+}
+.regreso{
+    background-color: #f2f2f2;
+    font-size: 13px;
+    border-radius: 10px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    
+}
+.regreso:hover {
+    background-color: #292c2e; 
+    color: rgb(197, 197, 197);
+}

@@ -1,0 +1,16 @@
+.news {
+    color: rgb(0, 0, 0);
+    border: 5px black outset ;
+    height: 300px;
+    width: 350px;
+    background-image: url(gexterra.png);
+    background-size: 350px ,570px ;
+    background-repeat:no-repeat ;
+    background-color: dimgray;
+}
+.regreso{
+    background-color: #a9e892;
+    font-size: 15px;
+    border-radius: 6px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}

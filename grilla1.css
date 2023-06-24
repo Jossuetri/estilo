@@ -1,0 +1,39 @@
+.news {
+    border: 5px black outset;
+    background-color: rgb(162, 161, 161);
+    height: 220px;
+    width: 300px;
+    border-radius: 8px;
+}
+.cabeza{
+    text-decoration: underline; 
+    text-shadow: 3px 5px 5px rgb(13, 8, 79);
+}
+table,tr,th,td{
+    border: 3px black outset ;
+    border-collapse: collapse
+}
+th{
+    background-color: darkslategrey;
+    color:ghostwhite
+}
+td:hover{
+    background-color: #aaa;
+    cursor: pointer;
+}
+tr:nth-child(even){
+    background-color: #eee;
+}
+
+.regreso{
+    background-color: #f2f2f2;
+    font-size: 13px;
+    border-radius: 9px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    
+}
+.regreso:hover {
+    background-color: #292c2e; 
+    color: rgb(197, 197, 197);
+}
